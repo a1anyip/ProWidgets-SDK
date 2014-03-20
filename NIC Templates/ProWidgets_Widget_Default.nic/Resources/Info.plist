@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleIdentifier</key>
+	<string>@@PACKAGENAME@@</string>
+	<key>NSPrincipalClass</key>
+	<string>PWWidget@@PROJECTNAME@@</string>
+	<key>PWInfoType</key>
+	<string>widget</string>
+	<key>PWInfoDisplayName</key>
+	<string>@@FULLPROJECTNAME@@</string>
+	<key>PWInfoAuthor</key>
+	<string>@@USER@@</string>
+	<key>PWInfoDescription</key>
+	<string>Default Layout</string>
+</dict>
+</plist>

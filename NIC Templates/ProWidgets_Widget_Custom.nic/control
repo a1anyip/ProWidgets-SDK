@@ -1,0 +1,8 @@
+Package: @@PACKAGENAME@@
+Name: @@FULLPROJECTNAME@@
+Depends: cc.tweak.prowidgets, firmware (>= 7.0)
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Widget template for ProWidgets
+Author: @@USER@@
+Section: Addons (ProWidgets)

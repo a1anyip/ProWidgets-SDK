@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionButtonText</key>
+	<string>Submit</string>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>key</key>
+			<string>textfield</string>
+			<key>title</key>
+			<string>Type something here...</string>
+			<key>type</key>
+			<string>textField</string>
+		</dict>
+	</array>
+</dict>
+</plist>
