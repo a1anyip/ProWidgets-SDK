@@ -1,0 +1,8 @@
+Package: @@PACKAGENAME@@
+Name: @@FULLPROJECTNAME@@
+Depends: cc.tweak.prowidgets
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Theme template for ProWidgets
+Author: @@USER@@
+Section: Themes (ProWidgets)
